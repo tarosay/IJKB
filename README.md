@@ -1,4 +1,4 @@
-# イチゴジャム　キーボード Ver 1.1.04.515
+# IJKB Ver 1.1.04.515
 
 　イチゴジャムにシリアル接続しているPCのキーボードをイチゴジャムのキーボードとして使えるようにするプログラムです。
 　インストーラーを用いてインストールするか、64bit版かx86版のフォルダをどこかにコピーしてお使いください。  
@@ -6,7 +6,7 @@
 
 #License
 
-  IchigoJamKeyBoard License
+  IJKB License
 
     Copyright (c) 2015 Minao Yamamoto
 
