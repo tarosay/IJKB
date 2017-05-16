@@ -13,7 +13,9 @@
 　例外エラーが出にくくなっていると思いますが、もし、モニタがエラーとなった場合は、継続を選んでモニタボタンでオフにして、もう一度モニタを起動してください。
 　高速にキーを打つと、処理が追いつかなくなるため、画面が乱れます。
 
-#更新内容
+# 更新内容
+　全然メンテナンスが出来ていないので、ソースコードを公開しました。
+ 
 　Enterコードの処理のバグフィックス
 
 　シフト+ENTERによる行分割を実装した。
@@ -35,11 +37,11 @@
 　きっと、処理を追加したので、重くなっていると思います。
 　すいません。
 
-#説明
+# 説明
 　IJKBの説明は下記の資料を見てください。
 http://www.slideshare.net/MinaoYamamoto/ijkb
 
-#License
+# License
 
   IJKB License
 
@@ -56,6 +58,6 @@ http://www.opensource.org/licenses/mit-license.php
 https://creativecommons.org/licenses/by/2.1/jp/
 http://ichigojam.net/
 
-#Author
+# Author
 
     Minao Yamamoto
